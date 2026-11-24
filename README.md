@@ -11,7 +11,7 @@ A simple bike rental application built using React, Vite and React Router.
 
 ## Live Deployment
 
-[Enter Vercel deployment link]
+https://uditagarwal-midsem-phase.vercel.app/
 
 ## How to Run
 
